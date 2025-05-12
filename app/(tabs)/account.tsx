@@ -26,7 +26,7 @@ function About() {
         <ThemedText style={styles.textBig}>About</ThemedText>
         <ThemedView style={{ marginTop: 10 }}>
             <Pressable>
-                <ThemedText style={{margin: 10, fontSize: 18}}>Accont</ThemedText>
+                <ThemedText style={{margin: 10, fontSize: 18}} >Account</ThemedText>
             </Pressable>
             <Pressable>
                 <ThemedText style={{margin: 10, fontSize: 18}}>Privacy Policy</ThemedText>

@@ -14,21 +14,21 @@ export default function TabLayout() {
         name="foryou"
         options={{
           title: 'For you',
-          tabBarIcon: ({ color }) => <FontAwesome size={28} name="home" color={color} />,
+          tabBarIcon: ({ color }) => <FontAwesome size={28} name="home" color={Colors[theme].indicator} />,
         }}
       />
       <Tabs.Screen
         name="index"
         options={{
           title: 'Explore',
-          tabBarIcon: ({ color }) => <FontAwesome size={28} name="feed" color={color} />,
+          tabBarIcon: ({ color }) => <FontAwesome size={28} name="feed" color={Colors[theme].indicator} />,
         }}
       />
       <Tabs.Screen
         name="account"
         options={{
           title: 'Account',
-          tabBarIcon: ({ color }) => <FontAwesome size={28} name="user" color={color} />,
+          tabBarIcon: ({ color }) => <FontAwesome size={28} name="user" color={Colors[theme].indicator} />,
         }}
       />
 
