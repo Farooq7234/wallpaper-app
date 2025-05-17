@@ -4,6 +4,10 @@
 
 ![suggested](assets/images/Suggested.png)
 
+## Bottom Sheet
+
+![suggested](assets/images/bottom-sheet.png.png)
+
 ## Liked 
 
 ![liked](assets/images/Liked.png)
