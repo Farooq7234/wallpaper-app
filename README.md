@@ -1,5 +1,23 @@
 # Welcome to your Expo app 👋
 
+## Suggested 
+
+![suggested](assets/images/Suggested.png)
+
+## Liked 
+
+![liked](assets/images/Liked.png)
+
+## Library 
+
+![library](assets/images/Library.png)
+
+## Account 
+
+![account](assets/images/Account.png)
+
+
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
