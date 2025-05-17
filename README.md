@@ -6,7 +6,7 @@
 
 ## Bottom Sheet
 
-![suggested](assets/images/bottom-sheet.png.png)
+![bottom-sheet](assets/images/bottom-sheet.png)
 
 ## Liked 
 
